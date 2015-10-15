@@ -11,6 +11,7 @@ Ages 8+ for construction with adult help and use with a MakeyMakey, 12+ for modi
 
 
 Steps: 
+
 1: Acquire supplies: 2 Lego Mindstorms NXT's (v1.2 or v2.0), 4 mindstorms NXT/EV3 motors and cables, 1 NXT v1.2 or v2.0 touch sensor and cable, a MakeyMakey (or other board as mentioned above), a lego kit with similar/actual parts included in the NXT/EV3 kits, alligator clips (6-10), rubber bands, breadboard jumper wires (6-10, but may not be neccessary), aluminum foil, and masking tape. 
 
 2: Assemble the Joystick based on these instructions: http://www.philohome.com/nxtjoystick/joystick.htm
